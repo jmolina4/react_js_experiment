@@ -1,0 +1,8 @@
+.dog-list {
+  margin-top: 100px;
+}
+
+.dog-list.tile {
+  margin: 0px;
+  padding: 0px;
+}
